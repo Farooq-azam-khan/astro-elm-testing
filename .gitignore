@@ -1,4 +1,5 @@
 # build output
+elm-stuff
 dist/
 
 # generated types
